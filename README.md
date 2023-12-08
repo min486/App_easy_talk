@@ -1,34 +1,7 @@
-# App_movie
+# 이지톡
 
-Test
+## 페이지 기능
 
-```null
-|제목|내용|설명|
-|:---:|:---:|:---:|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-```
-
-
-
-|  제목   |  내용   |  설명   |
-| :-----: | :-----: | :-----: |
-| 테스트1 | 테스트2 | 테스트3 |
-| 테스트1 | 테스트2 | 테스트3 |
-| 테스트1 | 테스트2 | 테스트3 |
-
-
-
-| 제목                                                         | 내용                                                         | 설명                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./README.assets/kotlin-hero.png" alt="collection" align="center" width="50%" /> | <img src="./README.assets/kotlin-hero.png" alt="collection" align="center" width="40%" /> | <img src="./README.assets/kotlin-hero.png" alt="collection" align="center" width="40%" /> |
-|                                                              |                                                              |                                                              |
-| 테스트1                                                      | 테스트2                                                      | 테스트3                                                      |
-
-| 제목                                                         | 내용                                                         | 설명                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./README.assets/test2.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/test2.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/test2.gif" alt="collection" align="center" width="100%" /> |
-|                                                              |                                                              |                                                              |
-| 테스트1                                                      | 테스트2                                                      | 테스트3                                                      |
-
+|                        로그인 페이지                         |                  유저 / 채팅 / 설정 페이지                   |                       채팅 상세 페이지                       |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="./README.assets/easy1.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/easy2.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/easy3.gif" alt="collection" align="center" width="100%" /> |
